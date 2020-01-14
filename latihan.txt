@@ -1,0 +1,5 @@
+Latihan GITHUB
+
+-membuat akun github
+-membuat repository
+-membuat new project
